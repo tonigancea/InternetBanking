@@ -10,7 +10,7 @@ The repo offers only the `.c` source files. So, for testing the project you will
 
 ## Behavior Server
 You will have to start the server on a separate terminal.
-> ./server <port_server> <users_data_file>  
+`./server <port_server> <users_data_file>`   
 `<users_data_file>` is a file that specifies the clients from the bank. It has the following format:
 
     <number_of_clients>
