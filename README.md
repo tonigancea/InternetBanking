@@ -9,7 +9,7 @@ This project simulates an internet banking application. It was developed in the 
 The repo offers only the `.c` source files. So, for testing the project you will need first to build it. You can do that with the `make` command which will build (compile) the files according to the `Makefile` file.
 
 ## Behavior Server
-You will have to start the server on a separate terminal.
+You will have to start the server on a separate terminal.  
 `./server <port_server> <users_data_file>`   
 `<users_data_file>` is a file that specifies the clients from the bank. It has the following format:
 
