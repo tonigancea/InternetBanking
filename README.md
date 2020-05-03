@@ -32,7 +32,7 @@ After a successful connection the client will generate a personal `.log` file.
  * `logout`  
  * `listsold`- list account balance  
  * `transfer <card_number> <amount>` - transfer to another card  
- * ~~~unlock~~~
+ * ~~unlock~~
  * `quit` - closes current connection  
 
 ## Have fun and keep on coding! :)
